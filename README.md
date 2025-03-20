@@ -60,12 +60,6 @@ I'm a Computer Science Engineering student at the **National School of Computer 
 ### 🔗 Blockchain-based Platform
 Developing a blockchain solution for secure transactions.
 
-### 📱 Kotlin Mobile Application
-Creating a native Android application using Kotlin with a focus on modern mobile development practices.
-
-### 🖼️ Computer Vision with YOLO
-Currently working on **object detection** using **YOLO (You Only Look Once)** for real-time image recognition.
-
 ## 🚀 Featured Projects
 
 ### **HumanScript**
@@ -77,16 +71,6 @@ A scientific article search engine with **advanced filtering capabilities** and 
 ### **Simulify**
 An interactive pedagogical simulator for **computer architecture and assembly learning**.
 
-## 👩‍💻 Experience
-
-- **HR Manager** at ESI Scientific Club *(2023-present)*
-- **Full-Stack Developer Intern** at Agriculture and Rural Development Bank *(2024)*
-- **Technical Support Intern** at Ooredoo *(2022)*
-
-## 🎓 Education
-
-- **National School of Computer Science (ESI)** - Computer Science Engineering *(2021-2026)*
-- **Africa to Silicon Valley (A2SV)** - Software Engineering Program *(2024-present)*
 
 ## 📫 Connect with Me
 
