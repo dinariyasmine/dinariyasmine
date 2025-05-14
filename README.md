@@ -41,8 +41,7 @@ Computer Science Engineering student at the National School of Computer Science 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
   <img src="https://img.shields.io/badge/Roboflow-101827?style=for-the-badge&logo=roboflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ultralytics-YOLO-8A2BE2?style=for-the-badge&logo=ultralytics&logoColor=white&color=4B0082" />
-
+  <img src="https://img.shields.io/badge/Ultralytics-YOLO-9400D3?style=for-the-badge&logo=ultralytics&logoColor=white&color=0000FF" />
 </p>
 
 
