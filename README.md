@@ -59,6 +59,15 @@ I'm a Computer Science Engineering student at the **National School of Computer 
 </p>
 
 
+### Hardware & Embedded Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
+
+
 ### Design & Methodologies
 - **Design Patterns**
 - **Compiler Design**
