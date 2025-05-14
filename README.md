@@ -43,10 +43,10 @@ I'm a Computer Science Engineering student at the **National School of Computer 
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" />
   <img src="https://img.shields.io/badge/Ultralytics-YOLOv8-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMzYgMzYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI0ZGRDAwMCIgZD0iTTI5LjY3IDEwLjA5YTQuMDEgNC4wMSAwIDAgMC0yLjgtMS4xOEwxNy44MyAyLjI4YTIgMiAwIDAgMC0xLjY2IDBMMTcuMyAyMmE1LjQzIDUuNDMgMCAwIDAgNC4yNS01LjA2IDUuNTUgNS41NSAwIDAgMCAxLjUyLTMuOThhNS4zMiA1LjMyIDAgMCAwLTEuMzMtMy44MXptLTcuNzYgMTMuMzdjLS4wNi4zLS4xNC42LS4yMi45MmE0LjYyIDQuNjIgMCAwIDEtNS4yMSAzLjIzbC0xLjgyLjQyYTQuNDQgNC40NCAwIDAgMS0zLjQ0LS4zMyA0LjY4IDQuNjggMCAwIDEtMy4xMS0yLjMyIDQuNjUgNC42NSAwIDAgMS0uMTctMy42MWwxLjY3LTYuNzdhNC42OSA0LjY5IDAgMCAxIDIuNC0yLjkyTDExLjg3IDZsLTQuNSAxLjAzYTIgMiAwIDAgMC0xLjQ2IDEuNjZMMy4zMyAyMi4xMmE4LjY0IDguNjQgMCAwIDAgMS4zNSA2LjU4IDguNTUgOC41NSAwIDAgMCA1LjI5IDQuODNsMi4xMi40OWE4LjYyIDguNjIgMCAwIDAgNS4xNC0uNTEgOC41NyA4LjU3IDAgMCAwIDIuNjQtMS4zNyA4LjUzIDguNTMgMCAwIDAgMy44Mi01LjI1TDI2LjIgMTguNDdsLTEuNzUtMS43NS0yLjQ2IDUuNDJ6Ii8+PC9zdmc+" />
-
   <img src="https://img.shields.io/badge/YOLOv5-FF4081?style=for-the-badge&logo=ultralytics&logoColor=black" />
   <img src="https://img.shields.io/badge/YOLOE-9C27B0?style=for-the-badge&logo=ultralytics&logoColor=black" />
   <img src="https://img.shields.io/badge/Ultralytics-FFD700?style=for-the-badge&logo=ultralytics&logoColor=black" />
+  <img src="https://img.shields.io/badge/Roboflow-101827?style=for-the-badge&logo=roboflow&logoColor=white" />
 
 </p>
 
