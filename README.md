@@ -4,16 +4,6 @@ I'm a Computer Science Engineering student at the **National School of Computer 
 
 <div align="center">
   <div style="display: flex; align-items: stretch; flex-direction: column; gap: 10px; max-width: 850px; margin: 0 auto;">
-    <!-- First row: Two cards side by side -->
-    <div style="display: flex; gap: 10px; justify-content: space-between;">
-      <img src="https://github-readme-stats.vercel.app/api?username=dinariyasmine&show_icons=true&theme=tokyonight&count_private=true&card_width=400&hide_border=true" alt="GitHub Stats" style="width: 49%;" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinariyasmine&layout=compact&theme=tokyonight&count_private=true&hide_border=true&card_width=400" alt="Top Languages" style="width: 49%;" />
-    </div>
-    <!-- Second row: Two cards side by side -->
-    <div style="display: flex; gap: 10px; justify-content: space-between;">
-      <img src="https://github-profile-trophy.vercel.app/?username=dinariyasmine&theme=tokyonight&row=1&column=3&no-frame=true&margin-w=15" alt="Trophies" style="width: 49%;" />
-      <img src="https://git-hub-streak-stats.vercel.app?user=dinariyasmine&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width: 49%;" />
-    </div>
     <!-- Third row: Single card spanning width -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinariyasmine&theme=tokyonight" alt="Profile Summary" style="width: 100%;"/>
   </div>
@@ -58,7 +48,7 @@ I'm a Computer Science Engineering student at the **National School of Computer 
 ## 🔭 Current Projects
 
 ### 🔗 Blockchain-based Platform
-Developing a blockchain solution for secure transactions.
+Developing a blockchain solution for secure donations.
 
 ## 🚀 Featured Projects
 
