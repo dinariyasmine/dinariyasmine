@@ -1,6 +1,6 @@
 # Hi there, I'm Yasmine Dinari 👋
 
-I'm a Computer Science Engineering student at the **National School of Computer Science (ESI)** in Algeria, passionate about ** developing robust solutions**, **problem solving ** and **computer vision**.
+I'm a Computer Science Engineering student at the **National School of Computer Science (ESI)** in Algeria, passionate about **developing robust solutions**, **problem solving** and **computer vision**.
 
 <div align="center">
   <div style="display: flex; align-items: stretch; flex-direction: column; gap: 10px; max-width: 850px; margin: 0 auto;">
