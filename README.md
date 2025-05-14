@@ -1,6 +1,6 @@
 # Hi there, I'm Yasmine Dinari 👋
 
-I'm a Computer Science Engineering student at the **National School of Computer Science (ESI)** in Algeria, passionate about **backend development and web technologies**. Currently active in the **Africa to Silicon Valley (A2SV)** program, where I've solved **over 470 algorithmic problems** on LeetCode and Codeforces.
+I'm a Computer Science Engineering student at the **National School of Computer Science (ESI)** in Algeria, passionate about ** developing robust solutions**, **problem solving ** and **computer vision**.
 
 <div align="center">
   <div style="display: flex; align-items: stretch; flex-direction: column; gap: 10px; max-width: 850px; margin: 0 auto;">
