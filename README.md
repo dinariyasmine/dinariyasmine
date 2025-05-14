@@ -40,7 +40,7 @@ Computer Science Engineering student at the National School of Computer Science 
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/UltraLytics-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/UltraLytics-4F46E5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQ4jZXTMUtcQRQF4G9cdZMQrCxEbEQUwWJB/AHaKVZpU6TTSkhhY5dSUgQUJI2FtcHGQhsVUgQMFsJaGLtUgkVAiRIlZhMRQde1mFnYPJbdAy/cO3PumTvnzFxSSi7UMI2yN/AeY5GxFNgHdDCGDj5hgEZOLvtYRxv38BXrmE8p/c0JfMMK5ryx+WspoRKo4AeuF8JXcQfHUdQAneJXv0EHi6ExUNLXfuMebuJ0CIGVlHJPq6JoDCKQTTzIZhuehfGEbRHIRxwOIWhjEQeRnMVzvHLOqm/4jnncPz+7ahPNeBfOPpQi/7S0pZTScSSO4j7u4lSZUsLzHNS3/sHyKh5Lwx+YiowJPIsFn8C1AQa+YGpYVMv4grNo4sWAHM/UhgZ5IaUBjsGqa3/Rx6D/vAAAAABJRU5ErkJggg==" />
   <img src="https://img.shields.io/badge/Roboflow-101827?style=for-the-badge&logo=roboflow&logoColor=white" />
 
 </p>
