@@ -1,6 +1,6 @@
 # Hi there, I'm Yasmine Dinari 
 
-Computer Science Engineering student from the National School of Computer Science (ESI) in Algeria, passionate about developing robust solutions through algorithmic excellence, problem-solving, and cutting-edge technology.
+Computer Science Engineer from the National School of Computer Science (ESI) in Algeria, passionate about developing robust solutions through algorithmic excellence, problem-solving, and cutting-edge technology.
 
 <div align="center">
   <div style="display: flex; align-items: stretch; flex-direction: column; gap: 10px; max-width: 850px; margin: 0 auto;">
